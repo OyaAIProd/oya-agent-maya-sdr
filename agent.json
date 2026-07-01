@@ -167,6 +167,11 @@
       "is_active": true
     },
     {
+      "platform": "hunter",
+      "name": "Hunter.io Gateway",
+      "is_active": true
+    },
+    {
       "platform": "google-sheets",
       "name": "Google Sheets \u2014 mk@oya.ai",
       "is_active": true
