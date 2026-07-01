@@ -160,7 +160,23 @@
       "config": {}
     }
   ],
-  "gateways": [],
+  "gateways": [
+    {
+      "platform": "gmail",
+      "name": "Gmail \u2014 mk@oya.ai",
+      "is_active": true
+    },
+    {
+      "platform": "google-sheets",
+      "name": "Google Sheets \u2014 mk@oya.ai",
+      "is_active": true
+    },
+    {
+      "platform": "apollo",
+      "name": "Apollo.io Gateway",
+      "is_active": true
+    }
+  ],
   "routines": [
     {
       "name": "Weekday Morning Lead Generation",
